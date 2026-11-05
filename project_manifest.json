@@ -1,0 +1,15 @@
+{
+  "project": "AI Response Evaluation System",
+  "version": "1.0.0",
+  "files": [
+    ".gitignore",
+    "LICENSE",
+    "README.md",
+    "app.py",
+    "data/sample_cases.json",
+    "docs/evaluation_rubric.md",
+    "requirements.txt",
+    "tests/test_scoring.py"
+  ],
+  "run_command": "streamlit run app.py"
+}
