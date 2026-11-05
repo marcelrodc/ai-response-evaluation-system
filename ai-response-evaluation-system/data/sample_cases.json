@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Customer support — delayed order",
+    "category": "Customer support",
+    "prompt": "My order is 5 days late. Please help me understand what to do. Do not promise a refund unless the policy confirms I am eligible.",
+    "response_a": "I'm sorry your order is late. Please check the tracking link in your confirmation email for the latest status. If there has been no update for 48 hours, contact our support team with your order number so they can investigate. I can't confirm refund eligibility without checking the applicable policy.",
+    "response_b": "Your order is late, so you are definitely entitled to a full refund. We will refund you immediately. There is no need to contact support."
+  },
+  {
+    "title": "General knowledge — photosynthesis",
+    "category": "Question answering",
+    "prompt": "Explain photosynthesis in two sentences for a 12-year-old.",
+    "response_a": "Photosynthesis is the process plants use to make food from sunlight, water, and carbon dioxide. It produces sugar the plant can use and releases oxygen into the air.",
+    "response_b": "Photosynthesis is when plants breathe in oxygen and turn it into soil. It happens only at night and does not need sunlight."
+  },
+  {
+    "title": "Instruction following — three bullet summary",
+    "category": "Instruction following",
+    "prompt": "Summarize this message in exactly three bullet points: 'The office will close at 3 p.m. on Friday for maintenance. Employees should save their work before leaving. Normal hours resume Monday at 9 a.m.'",
+    "response_a": "- The office closes at 3 p.m. Friday for maintenance.\n- Employees should save their work before leaving.\n- Normal office hours resume Monday at 9 a.m.",
+    "response_b": "The office will close early on Friday. Everyone should save their work. The office opens again next week."
+  },
+  {
+    "title": "Translation — natural English",
+    "category": "Translation",
+    "prompt": "Translate naturally into English: 'Agradecemos sua paciência e estamos trabalhando para resolver o problema o mais rápido possível.'",
+    "response_a": "We appreciate your patience, and we're working to resolve the issue as quickly as possible.",
+    "response_b": "We thank your patience and are working for solve the problem in the most fast possible."
+  }
+]
